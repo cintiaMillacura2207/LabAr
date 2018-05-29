@@ -15,17 +15,15 @@
 
 Construir:
 
-[source,bash]
-----
+```bash
 mvn clean install
-----
+```
 
 Ejecutar:
 
-[source,bash]
-----
+```bash
 mvn -pl webapp jetty:run
-----
+```
 
 Login test (modificar): 
 
